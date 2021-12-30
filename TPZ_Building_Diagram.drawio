@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T19:54:05.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="9IZdrb3e76LOmoNTpG9A" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T19:55:04.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6z2QebP2h_V6krtHEDFn" version="16.1.2" type="github">
   <diagram id="5zCuhfwVEnSTou-53F21" name="Page-1">
-    <mxGraphModel dx="527" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2156" dy="2871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,7 @@
           <mxGeometry x="5" y="50" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="A4m7OmumFzDa8KD8eZDD-48" value="Admin Table Explanation" style="swimlane;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="920" width="200" height="280" as="geometry" />
+          <mxGeometry x="1200" y="537.6" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="A4m7OmumFzDa8KD8eZDD-49" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Admin area will have:&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- Power Strip&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- Personal Laptops&lt;br&gt;&lt;br&gt;- Amino (receive multicast)&lt;br&gt;&lt;br&gt;- Network Switch for Admins&lt;br&gt;&lt;br&gt;- Large Pelican Cases&lt;br&gt;&lt;br&gt;- Extra Lock Pick set&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="A4m7OmumFzDa8KD8eZDD-48">
           <mxGeometry x="15" y="50" width="170" height="190" as="geometry" />
