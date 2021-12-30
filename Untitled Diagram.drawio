@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T19:04:16.007Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1-SthGwrp8boMS-8BJGx" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T19:11:01.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ricKSXnVaNI4pS0yj1Op" version="16.1.2" type="github">
   <diagram id="YrwHNUSA4oLnZc_JTOxu" name="Page-1">
-    <mxGraphModel dx="468" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="649" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,27 @@
         </mxCell>
         <mxCell id="3BZx2GMPJeDNM4V_dKzT-100" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_630;" vertex="1" parent="3BZx2GMPJeDNM4V_dKzT-88">
           <mxGeometry x="33" y="240" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3BZx2GMPJeDNM4V_dKzT-108" value="Patch Panel (48)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="310" width="124" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3BZx2GMPJeDNM4V_dKzT-109" value="Unifi Switch (24)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="340" width="124" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3BZx2GMPJeDNM4V_dKzT-110" value="Unifi Switch (24)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="360" width="124" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3BZx2GMPJeDNM4V_dKzT-111" value="Backup Dell Server" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="390" width="124" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3BZx2GMPJeDNM4V_dKzT-112" value="a Shelf" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="450" width="124" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3BZx2GMPJeDNM4V_dKzT-113" value="Main Servers&lt;br&gt;x10 Dell&lt;br&gt;One per team&lt;br&gt;VLAN for each&lt;br&gt;1Gbps Ether&lt;br&gt;? Cores&lt;br&gt;32 GB RAM" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="510" width="124" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3BZx2GMPJeDNM4V_dKzT-114" value="x2 APU&lt;br&gt;Battery Packs" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="710" width="124" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
